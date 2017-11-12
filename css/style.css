@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+
+#carousel {
+	display: block;
+	margin: 0 auto;
+	height: 300px;
+	width: 400px;
+	border: solid 3px blue;
+	border-radius: 3%;
+	padding: 0;
+	overflow: hidden;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	width: 2000px;
+	height: 300px;
+}
+
+img {
+	height: 300px;
+	width: 400px;
+}
