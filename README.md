@@ -1,4 +1,4 @@
-# Project module 10.3
+# Project module 10.3(carousel)
 - module 10.3
 
 lerem ipsum
